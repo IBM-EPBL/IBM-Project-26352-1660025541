@@ -116,7 +116,7 @@ def getnutri():
         conn = http.client.HTTPSConnection("spoonacular-recipe-food-nutrition-v1.p.rapidapi.com")
 
         headers = {
-            'X-RapidAPI-Key': "b83d346435msh8fe6686c34fa340p1091cajsn36d5e66c8425",
+            'X-RapidAPI-Key': "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
             'X-RapidAPI-Host': "spoonacular-recipe-food-nutrition-v1.p.rapidapi.com"
         }
 
